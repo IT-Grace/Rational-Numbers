@@ -1,4 +1,4 @@
-# Class-Complex
+# Class-Rational
 Create a class called Rational for performing arithmetic with fractions. Write a driver program to test your class.
 Use integer variables to represent the private data of the class--the numerator and the denominator. Provide a constructor function that enables an object of this class to be initialized when it is declared to a non-zero values. The constructor should store the fraction in reduced form (i.e., the fraction 2/4 should be saved as ½)
 
